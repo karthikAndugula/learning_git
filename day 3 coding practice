@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Details</title>
+</head>
+<body>
+
+<h2>Student Details</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Course</th>
+        <th>Marks</th>
+    </tr>
+
+    <tr>
+        <td>Arun</td>
+        <td>HTML</td>
+        <td>85</td>
+    </tr>
+
+    <tr>
+        <td>pawan</td>
+        <td>CSS</td>
+        <td>90</td>
+    </tr>
+    <tr>
+        <td>karthik</td>
+        <td>JavaScript</td>
+        <td>88</td>
+    </tr>
+        <br>
+        <head>
+            <title>teachers</title>
+            </head>
+        <table border="2">
+            <h2>Student Details</h2>
+            <tr>
+                <th>name</th>
+                <th>course</th>
+                <th>present</th>
+            </tr>
+            <tr>
+                <td>chandhu</td>
+                <td>english</td>
+                <td>absent</td>
+            </tr>
+            <tr>
+                <td>swori</td>
+                <td>math</td>
+                <td>present</td>
+            </tr>
+        </table>
+</table>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic HTML Example</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Website</h1>
+        <p>Welcome to my website</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <main>
+
+        <section>
+            <h2>About Us</h2>
+            <p>We provide web development training.</p>
+        </section>
+
+        <article>
+            <h2>Latest Blog</h2>
+            <p>Learn the basics of HTML and web development.</p>
+        </article>
+
+        <aside>
+            <h3>Related Information</h3>
+            <p>Explore our learning resources.</p>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website. All rights reserved.</p>
+    </footer>
+<div>
+    <div>
+        <h1>My Website</h1>
+    </div>
+
+    <div>
+        <p>Welcome to my website</p>
+    </div>
+    
+</div>
+</body>
+</html>
+</body>
+</html>
